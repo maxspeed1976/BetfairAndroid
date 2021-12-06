@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android-CleanArchitecture-Kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidNetworking-2/AndroidNetworking/starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DataBindingExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FoodsApp-starting-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaRedditYura" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KedditBySteps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVMRecipeApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pizza-Delivery_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pizzazia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RedditApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-words-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-kotlin-fundamentals-apps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-kotlin-fundamentals-apps2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-pizza-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator-notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compose-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reddit_yura" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reddittest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/topreddit" vcs="Git" />
+  </component>
+</project>
